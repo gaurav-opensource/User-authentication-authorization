@@ -95,9 +95,6 @@ Runs on: `http://localhost:3000`
 - **Admin**: Can access admin-only routes.
 - Protected using JWT authentication and middleware.
 
-## 📸 Screenshots
-
-_Add your app screenshots here to showcase UI and functionality_
 
 ## 💡 Future Improvements
 
